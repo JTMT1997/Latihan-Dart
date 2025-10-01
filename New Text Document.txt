@@ -1,0 +1,20 @@
+void main() {
+int a = 20;
+int b = 5;
+int hasilTambah = a+b;
+int hasilKurang = a-b;
+int hasilKali = a*b;
+num hasilBagi = a/b;
+int hasilBagiBawah = a~/b;
+int hasilModulo = a%b ; 
+ 
+  
+print(hasilTambah);
+print(hasilKurang);
+print(hasilKali);
+print(hasilBagi);
+print(hasilBagiBawah);
+print(hasilModulo);
+  
+ 
+}
